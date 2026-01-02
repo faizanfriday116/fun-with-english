@@ -4,7 +4,6 @@ const words = [
   { w: "Brave", m: "Showing courage" },
   { w: "Peace", m: "Freedom from disturbance" },
   { w: "Focus", m: "Paying close attention" },
-
   { w: "Success", m: "Achievement of a goal" },
   { w: "Believe", m: "To accept as true" },
   { w: "Patience", m: "Ability to wait calmly" },
